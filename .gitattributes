@@ -1,0 +1,2 @@
+unidic-cwj-202512/sys.dic filter=lfs diff=lfs merge=lfs -text
+unidic-cwj-202512/matrix.bin filter=lfs diff=lfs merge=lfs -text
